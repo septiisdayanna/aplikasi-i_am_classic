@@ -15,6 +15,7 @@ FAKULTAS VOKASI
 UNIVERSITAS NEGERI SURABAYA  
 2024
 
+
 ## 1. DIAGRAM ‘APLIKASI I AM CLASSIC’
 
 ![Alt Text](https://github.com/septiisdayanna/aplikasi-i_am_classic/blob/f7df9e36688d81cbb37d32781ec8d2e0783218ce/DIAGRAM.jpg)
@@ -53,7 +54,7 @@ Aplikasi ini dari kiri atau diawali dengan “MaterialApp” yang berisi “Scaf
 
 ## 4. DOKUMENTASI APLIKASI I AM CLASSIC
 
-![Alt Text](https://github.com/septiisdayanna/aplikasi-i_am_classic/blob/b3f06ddbb6a5386322a68091014e60ad50d7a5ce/DOKUMENTASI%20APLIKASI.jpg)
-
 ![Alt Text](https://github.com/septiisdayanna/aplikasi-i_am_classic/blob/main/DOKUMENTASI%20APLIKASI%202.png)
+
+![Alt Text](https://github.com/septiisdayanna/aplikasi-i_am_classic/blob/b3f06ddbb6a5386322a68091014e60ad50d7a5ce/DOKUMENTASI%20APLIKASI.jpg)
 
