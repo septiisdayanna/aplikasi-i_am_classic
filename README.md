@@ -52,4 +52,6 @@ Aplikasi ini dari kiri atau diawali dengan “MaterialApp” yang berisi “Scaf
 - `flutter:` `uses-material-design: true` `assets:` `- images/mobil1.jpeg` Konfigurasi spesifik untuk Flutter: uses-material-design: Mengindikasikan bahwa proyek ini menggunakan desain material (desain default untuk aplikasi Flutter). assets: Menentukan sumber daya yang disertakan dalam proyek. Di sini, images/mobil1.jpeg adalah satu-satunya aset yang disertakan, yang berarti file gambar mobil1.jpeg dalam folder images akan dimasukkan dalam aplikasi.
 
 ## 4. DOKUMENTASI APLIKASI I AM CLASSIC
+
 ![Alt Text](https://github.com/septiisdayanna/aplikasi-i_am_classic/blob/b3f06ddbb6a5386322a68091014e60ad50d7a5ce/DOKUMENTASI%20APLIKASI.jpg)
+![Alt Text](https://github.com/septiisdayanna/aplikasi-i_am_classic/blob/b3f06ddbb6a5386322a68091014e60ad50d7a5ce/DOKUMENTASI%20APLIKASI%202.jpg)
