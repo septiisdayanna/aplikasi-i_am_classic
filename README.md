@@ -17,7 +17,7 @@ UNIVERSITAS NEGERI SURABAYA
 
 ## 1. DIAGRAM ‘APLIKASI I AM CLASSIC’
 
-![Alt Text]([url_gambar](https://github.com/septiisdayanna/aplikasi-i_am_classic/blob/f7df9e36688d81cbb37d32781ec8d2e0783218ce/DIAGRAM.jpg))
+![Alt Text](https://github.com/septiisdayanna/aplikasi-i_am_classic/blob/f7df9e36688d81cbb37d32781ec8d2e0783218ce/DIAGRAM.jpg)
 
 ### Penjelasan Diagram:
 Aplikasi ini dari kiri atau diawali dengan “MaterialApp” yang berisi “Scaffold”. Didalam Scaffold ada “Center” untuk gambar atau “Image” yang berisi “Asset Image” dengan nama ‘mobil1.jpeg’, selain itu juga ada “Background Color” untuk Scaffold dengan warna ‘cyan’. Kemudian ada AppBar untuk bagian atasnya yang didalamnya ada “Background Color” dengan warna ‘bluegrey[800]’ dan ada sebuah “Title” untuk titlenya. Lalu yang terakhir pada “Title” berisi text yaitu ‘I Am Classic’ dengan menggunakan TextStyle color ‘white’.
@@ -52,3 +52,4 @@ Aplikasi ini dari kiri atau diawali dengan “MaterialApp” yang berisi “Scaf
 - `flutter:` `uses-material-design: true` `assets:` `- images/mobil1.jpeg` Konfigurasi spesifik untuk Flutter: uses-material-design: Mengindikasikan bahwa proyek ini menggunakan desain material (desain default untuk aplikasi Flutter). assets: Menentukan sumber daya yang disertakan dalam proyek. Di sini, images/mobil1.jpeg adalah satu-satunya aset yang disertakan, yang berarti file gambar mobil1.jpeg dalam folder images akan dimasukkan dalam aplikasi.
 
 ## 4. DOKUMENTASI APLIKASI I AM CLASSIC
+![Alt Text](https://github.com/septiisdayanna/aplikasi-i_am_classic/blob/b3f06ddbb6a5386322a68091014e60ad50d7a5ce/DOKUMENTASI%20APLIKASI.jpg)
